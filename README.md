@@ -43,4 +43,4 @@ Decompilers: Decompilation tools like RetDec, jadx, and Hex-Rays IDA Decompiler 
 Network Analysis Tools: Tools such as Wireshark, tcpdump, and Scapy help capture and analyze network traffic. Reverse engineers can inspect packets, dissect protocols, and analyze the
 
 ## Youtube Video
-[Video](yt.com)
+[Video](https://youtu.be/wu5y1Y1j8UQ)
